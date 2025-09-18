@@ -1,0 +1,16 @@
+# Framework de automatización
+selenium
+
+# Framework de pruebas (reemplaza a Junit/TestNG)
+pytest
+
+# Plugin para generar reportes HTML
+pytest-html
+
+# Para gestionar los drivers del navegador automáticamente
+webdriver-manager
+
+# Para BDD y documentación viva
+pytest-bdd
+
+pytest-timeout

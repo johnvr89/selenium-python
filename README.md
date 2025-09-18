@@ -9,7 +9,9 @@ Sigue estos pasos para configurar tu entorno de desarrollo local y ejecutar las 
 Asegúrate de tener instalado lo siguiente en tu sistema:
 
 Homebrew (gestor de paquetes para macOS). Si no lo tienes, instálalo desde brew.sh.
+
 Python 3.9+. Puedes verificar tu versión con python3 --version. Si necesitas instalarlo, usa brew install python3.
+
 Visual Studio Code. Descárgalo desde la página oficial.
 
 ### 2. Clonar el Repositorio
